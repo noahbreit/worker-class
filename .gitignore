@@ -1,0 +1,9 @@
+# Ignore build directory
+/build/
+
+# Ignore docs directory
+/docs/
+
+# Optional: Ignore all files in build and docs directories, even if they're in subdirectories
+build/**
+docs/**
